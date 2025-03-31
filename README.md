@@ -1,7 +1,8 @@
 # 🔥 FLAMES - Face & Hand Gesture Detection
 
 A real-time interactive system that combines computer vision (OpenCV + MediaPipe) and PyGame visual effects to create flame and smoke animations triggered by hand gestures and facial expressions.
-(https://github.com/user-attachments/assets/6bb37ee2-064c-45c0-b641-38ccb5a696e6)
+
+https://github.com/user-attachments/assets/6bb37ee2-064c-45c0-b641-38ccb5a696e6
 
 ## ✨ Key Features
 
@@ -24,7 +25,7 @@ A real-time interactive system that combines computer vision (OpenCV + MediaPipe
 ### Prerequisites
 - Python 3.9+ (`python --version`)
 - Webcam
-- 
+  
 ### Installation
 ```bash
 # Clone repository
@@ -54,6 +55,9 @@ python main.py
 - Close fist to extinguish flame and to create smoke
 
 #### Effect Testing (Debug Mode)
+
+https://github.com/user-attachments/assets/cc77da08-24ec-470c-84ca-f480cf91e962
+
 ```bash
 # Test flame effect standalone
 python3 -c "from effects.flames import test_flame; test_flame()"
@@ -61,7 +65,6 @@ python3 -c "from effects.flames import test_flame; test_flame()"
 # Test smoke effect standalone
 python3 -c "from effects.smoke import test_smoke; test_smoke()"
 ```
-(https://github.com/user-attachments/assets/73662912-83f6-4311-abdb-1046f84999c7)
 
 **Debug Controls:**
 
