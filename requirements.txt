@@ -1,0 +1,6 @@
+pygame~=2.6.1
+numpy~=1.26.4
+mediapipe~=0.10.7
+joblib~=1.4.2
+scikit-learn~=1.6.1
+opencv-contrib-python~=4.11.0.86
